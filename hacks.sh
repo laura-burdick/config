@@ -21,3 +21,5 @@ chmod -R 755 someDir/*
 find /some/dir -name "*.err"
 #Find files
 
+rm FOO1{3..5}
+#Bash regular expressions - remove files FOO13, FOO14, and FOO15
