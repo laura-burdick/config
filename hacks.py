@@ -1,3 +1,6 @@
+#Install locally
+conda install tqdm --use-local
+
 #Update a dictionary x with another dictionary y
 x.update(y)
 
