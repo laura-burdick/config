@@ -1,0 +1,5 @@
+#Clone repository into a non-empty directory
+git clone repo /tmp/folder
+cp -rf /tmp/folder/.git /dest/folder/
+cd /dest/folder
+git checkout -f master

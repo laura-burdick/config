@@ -5,7 +5,5 @@
 !.gitignore
 !.vimrc
 !.tmux.conf
-!.bashrc
-!hacks.py
-!hacks.sh
-!hacks.vim
+!.bash_aliases
+!hacks.*
