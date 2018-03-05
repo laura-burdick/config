@@ -15,3 +15,7 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=lo
 #To view logging in console, don't provide filename argument
 logging.debug('Debug message')
 logging.info('Info message')
+
+#Where was module imported from?
+import module
+print(module.__file__)
