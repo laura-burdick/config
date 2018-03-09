@@ -1,0 +1,10 @@
+How to clone this repository to a new computer, from home directory:
+git clone https://github.com/wendlandt/config.git
+cp -rf config/. . #Dot after config makes sure that hidden files are copied, r makes sure that directories are copied
+rm -rf config
+
+To get bash_aliases working, add this to .bashrc:
+source ~/.bash_aliases
+
+Then re-execute .bashrc from terminal:
+source ~/.bashrc
