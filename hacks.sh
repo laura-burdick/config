@@ -1,6 +1,9 @@
 df -h
 #See how much space is on each partition of lit10
 
+du -h . | sort -hr
+#Look at how much space each directory folder is taking up
+
 dtrx /path/to/compressed/file
 #"Do the right extraction" - automatically extract files
 
