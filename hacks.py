@@ -19,3 +19,7 @@ logging.info('Info message')
 #Where was module imported from?
 import module
 print(module.__file__)
+
+#Matplotlib error: Invalid DISPLAY variable
+import matplotlib
+matplotlib.use('agg') #before importing plt or seaborn
