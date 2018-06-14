@@ -1,3 +1,6 @@
+vim +"set nobomb | set fenc=utf8 | x" filename.txt
+#Convert file to ascii
+
 df -h
 #See how much space is on each partition of lit10
 
