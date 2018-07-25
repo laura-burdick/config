@@ -1,3 +1,6 @@
+split --bytes=1M /file/to/split.txt /path/to/put/new/pieces
+#Split file into smaller pieces
+
 head -100 file.txt
 #Display first 100 lines of file
 
