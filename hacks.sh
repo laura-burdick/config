@@ -1,3 +1,6 @@
+head -100 file.txt
+#Display first 100 lines of file
+
 vim +"set nobomb | set fenc=utf8 | x" filename.txt
 #Convert file to ascii
 
