@@ -1,3 +1,6 @@
+#Look at import time (as python modules are loading)
+python someProgram.py -X importtime
+
 #Install locally
 conda install tqdm --use-local
 

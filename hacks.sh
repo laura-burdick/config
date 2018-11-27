@@ -1,3 +1,6 @@
+While holding Alt + SysRq, type REISUB
+#Safe restart of computer
+
 split --bytes=1M /file/to/split.txt /path/to/put/new/pieces
 #Split file into smaller pieces
 
