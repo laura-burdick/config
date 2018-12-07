@@ -1,3 +1,6 @@
+w
+#What users are on the computer?
+
 While holding Alt + SysRq, type REISUB
 #Safe restart of computer
 
