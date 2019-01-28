@@ -1,3 +1,7 @@
+#Copy file in file system
+from shutil import copyfile
+copyfile(src, dst)
+
 #Look at import time (as python modules are loading)
 python someProgram.py -X importtime
 
