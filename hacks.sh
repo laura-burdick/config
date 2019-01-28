@@ -1,3 +1,6 @@
+ls -R > someFile.txt
+#Print all file names to a text file
+
 w
 #What users are on the computer?
 
