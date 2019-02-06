@@ -1,3 +1,6 @@
+#Join list of lists into one list
+flattened_list = [y for x in list_of_lists for y in x]
+
 #Copy file in file system
 from shutil import copyfile
 copyfile(src, dst)
