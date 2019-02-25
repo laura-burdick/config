@@ -1,3 +1,8 @@
+tmux new -s lit10s #Create new named tmux session
+control-s + d #detach session
+tmux attach -t lit10s #attach back to session
+tmux switch -t lit100s #switch sessions
+
 ls -R > someFile.txt
 #Print all file names to a text file
 
