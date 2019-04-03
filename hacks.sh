@@ -1,3 +1,13 @@
+conda clean --all
+#Free up space from anaconda
+
+ln -s /local/someFile someFile
+#Make a softlink
+
+git gc #run frequently
+git gc --aggressive #run occasionally
+#Clean up git repository (save space)
+
 tmux new -s lit10s #Create new named tmux session
 control-s + d #detach session
 tmux attach -t lit10s #attach back to session
