@@ -1,3 +1,6 @@
+https://support.rackspace.com/how-to/installing-mysql-server-on-ubuntu/
+#Install and use mysql
+
 conda clean --all
 #Free up space from anaconda
 
