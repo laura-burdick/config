@@ -1,3 +1,6 @@
+Edit file .git/info/exclude
+#Local .gitignore (that doesn't push to server
+
 https://support.rackspace.com/how-to/installing-mysql-server-on-ubuntu/
 #Install and use mysql
 
