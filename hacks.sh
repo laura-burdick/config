@@ -1,3 +1,6 @@
+find . -type f -empty -delete
+#Delete all empty files in a directory
+
 Edit file .git/info/exclude
 #Local .gitignore (that doesn't push to server
 
