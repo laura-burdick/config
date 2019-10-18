@@ -12,3 +12,10 @@ alias sftp_lit00='sftp lit00.eecs.umich.edu'
 alias sftp_lit='sftp lit.eecs.umich.edu'
 alias sftp_flux='sftp flux-login.arc-ts.umich.edu'
 alias sftp_greatlakes='sftp greatlakes.arc-ts.umich.edu'
+
+#cd
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias .....="cd ../../../.."
+alias ......="cd ../../../../.."
