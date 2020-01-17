@@ -1,4 +1,5 @@
 #Web servers
+alias lit1000='ssh lit1000.eecs.umich.edu'
 alias lit100='ssh lit100.eecs.umich.edu'
 alias lit10='ssh lit10.eecs.umich.edu'
 alias lit00='ssh lit00.eecs.umich.edu'
