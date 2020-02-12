@@ -1,3 +1,6 @@
+#Using later versions of tensorflow in code that wants earlier versions
+import tensorflow.compat.v1 as tf
+
 #Join list of lists into one list
 flattened_list = [y for x in list_of_lists for y in x]
 
