@@ -1,3 +1,12 @@
+scancel -u username
+#slurm cancel all jobs by a particular user
+
+ls -l | wc -l
+#count number of files in a directory
+
+wc -l file.txt
+#count number of lines in a file
+
 find . -type f -empty -delete
 #Delete all empty files in a directory
 
